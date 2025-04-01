@@ -1,7 +1,7 @@
 public class Vehicule {
-    private String marque;
-    private String modele;
-    private int annee;
+    String marque;
+    String modele;
+    int annee;
     public Vehicule (String marque, String modele,int annee) {
         this.marque = marque;
         this.modele = modele;
