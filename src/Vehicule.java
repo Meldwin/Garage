@@ -1,3 +1,5 @@
+/* Création de la classe Vehicule  */
+
 public class Vehicule {
     String marque;
     String modele;
